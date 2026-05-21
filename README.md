@@ -77,6 +77,8 @@ Everwod_IA_FAQs/
 ├── embeddings.py
 ├── faq_core.py
 ├── faq_model.py
+├── faq_scheduler.py
+├── validation.py
 │
 └── README.md
 ```
